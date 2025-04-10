@@ -2,6 +2,8 @@
 
 Vue 3, TypeScript, Pinia, Vue Router ve Ant Design Vue kullanılarak geliştirilmiş modern, ölçeklenebilir bir yönetim paneli projesidir.
 
+Canlı demo: https://funny-gingersnap-bb13a7.netlify.app/
+
 ## 🚀 Özellikler
 
 - ✅ Vue 3 Composition API
