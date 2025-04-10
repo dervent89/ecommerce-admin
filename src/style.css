@@ -1,0 +1,18 @@
+:root {
+  --site-bg-color: #f5f5f5;
+  --primary-color: #52922F;
+}
+
+html, body, #app,.ant-app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: var(--site-bg-color);
+}
+
+
+.site_container{
+  width: 100%;
+  padding: 0 24px;
+}
